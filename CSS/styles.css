@@ -219,7 +219,7 @@ This helps make it stand out just a little more, not be so plain on first glance
 /* scaling effect on hover */
 .index-container li:hover {
   transform: scale(1.02);
-  color: #3340a7;
+  color: #0f2930;
 }
 
 /* **** STYLE FOR MAIN PAGE END **** */
@@ -248,7 +248,7 @@ This helps make it stand out just a little more, not be so plain on first glance
 
 .skills-containers li:hover {
   transform: scale(1.01);
-  color: #3340a7;
+  color: #0f2930;
 }
 
 .skills-containers > div:nth-child(1) {
@@ -302,7 +302,7 @@ This helps make it stand out just a little more, not be so plain on first glance
 }
 .education-container li:hover {
   transform: scale(1.2);
-  color: #3340a7;
+  color: #0f2930;
 }
 
 .education-container {
@@ -366,7 +366,7 @@ This helps make it stand out just a little more, not be so plain on first glance
 
 .interests-container li:hover {
   transform: scale(1.02);
-  color: #3340a7;
+  color: #0f2930;
 }
 
 .interests-container > div:nth-child(1) {
